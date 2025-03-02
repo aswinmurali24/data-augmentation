@@ -1,5 +1,4 @@
-# data-augmentation
-Exploring data augmentation techniques for Human Activity Recognition models
+
 # Human Activity Recognition Dissertation
 
 This repository contains the implementation and findings from my Master's dissertation project titled **"Unlocking the Power of Data Augmentation Techniques Using Human Activity Recognition"**. The project focuses on applying traditional and advanced data augmentation techniques (including Generative Adversarial Networks (GANs) and Contrastive Predictive Coding (CPC)) to improve the performance of deep learning models in **Human Activity Recognition (HAR)**.
