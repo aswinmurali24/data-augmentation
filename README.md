@@ -9,6 +9,9 @@ The repository includes the code, data, and results associated with the disserta
 
 Human Activity Recognition (HAR) is a field that involves classifying human activities based on sensor data. This project explores the application of **Generative Adversarial Networks (GANs)** and **Contrastive Predictive Coding (CPC)** for augmenting the data used in HAR tasks to improve model performance. The dataset used in this dissertation is derived from multiple human activity datasets including **UCI-HAR**, **Opportunity**, and **PAMAP2**.
 
+The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
+
 ## Research Objectives
 
 The primary goal of this dissertation is to:
